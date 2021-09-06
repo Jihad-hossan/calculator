@@ -1,0 +1,34 @@
+*  {margin: 0;
+    padding: 0;}
+
+    h1   {text-align: center;
+          padding-top: 10px;
+           font-size: bold;}
+.calculator   {
+               width: 350px;
+               margin: 0 auto;
+               text-align: center;
+               box-shadow: 0 5px 12px 0 black;
+               font-size: 0;
+               
+}
+.display   {
+            box-sizing: border-box;
+            height: 100px;
+            width: 100%;
+            text-align: right;
+            font-size: 35px;
+            padding: 0 5px;
+            letter-spacing: 3px;
+            font-weight: bold;
+}
+.btn   {
+         width: 83px;
+         height: 55px;
+         text-align: center;
+         font-weight: bolder;
+         color: white;
+         background-color:rgb(14, 7, 7);
+
+}
+.btn:nth-child(4) {background-color: rgb(8, 94, 100);}
